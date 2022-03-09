@@ -1,0 +1,258 @@
+{"@t":"2022-03-07T21:07:03.4162693Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-07T21:07:24.2439065Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-07T21:07:24.6903855Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-08T00:59:05.6735612Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T01:17:40.7158773Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T01:27:50.3580705Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T01:29:50.3686326Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T01:38:10.9917692Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T01:40:34.9273697Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T01:43:31.0679859Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T01:52:03.4773333Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T02:17:33.5822611Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T02:17:33.6172696Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T02:20:42.2068120Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T02:20:42.2355199Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T02:21:34.4262828Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T02:21:34.4600131Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T02:24:46.0410923Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T02:45:12.4248344Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T03:00:09.9042935Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T03:16:57.9488623Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T03:23:16.2198650Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T03:24:30.6470504Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T03:33:17.9588392Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T03:33:18.0067251Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T03:40:29.2394019Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T03:42:14.5617868Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T03:44:26.3823498Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T03:45:58.1664886Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T03:50:19.2092551Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T03:50:19.2523717Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T04:08:47.0670823Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T04:12:03.0055157Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T04:12:03.0498182Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T04:15:45.2996455Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T04:15:45.3277797Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T04:16:38.7880082Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T04:16:38.8207350Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T04:17:43.3901385Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T04:17:43.4188338Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T04:19:06.4324668Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T04:19:06.4602781Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T04:20:56.6257711Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T04:20:56.6546504Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T04:22:59.7401478Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T04:22:59.7687706Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T04:25:55.2855904Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T04:27:58.1491812Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T04:27:58.1778826Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T04:31:42.8218617Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T04:38:44.8197132Z","@m":"Host terminated unexpectedly","@i":"2eab722c","@l":"Fatal","@x":"Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException: Exception of type 'Microsoft.Extensions.Hosting.HostFactoryResolver+HostingListener+StopTheHostException' was thrown.\r\n   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)\r\n   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)\r\n   at Microsoft.Extensions.Hosting.HostBuilder.Build()\r\n   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()\r\n   at Program.<Main>$(String[] args) in D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Program.cs:line 89"}
+{"@t":"2022-03-08T04:38:44.8479001Z","@m":"Server Shutting down...","@i":"7f9a8bad"}
+{"@t":"2022-03-08T05:07:34.6440073Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T05:09:03.8277511Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-08T05:09:04.3648659Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-08T05:09:19.7007662Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-08T05:09:19.7173050Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-08T05:09:38.4968349Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-08T05:09:38.5024892Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-08T05:10:08.8932063Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T05:10:35.1979909Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-08T05:11:54.9251065Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T05:12:22.4902627Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-08T05:12:23.1668243Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-08T05:12:23.1681327Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-08T05:14:58.8828101Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T05:15:31.2305521Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-08T05:15:31.8835692Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-08T05:15:31.8849207Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-08T05:20:37.8531310Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T05:21:07.7165197Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-08T05:21:08.4263493Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-08T05:21:08.4278152Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-08T05:23:21.7310014Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T05:30:27.0623867Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T06:09:46.4428979Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T06:11:37.8266846Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-08T06:11:38.1144549Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-08T06:11:38.1159162Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-08T06:19:38.5415181Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-08T06:24:30.6645752Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T00:10:39.9538139Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T00:11:17.7992718Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:11:18.6955900Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:11:18.6969780Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:14:08.5638922Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:14:08.5725315Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:14:08.5726893Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:20:31.8574701Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T00:20:57.3940060Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:20:58.0600229Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:20:58.0613793Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:21:40.0295837Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:21:40.0391601Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:21:40.0393110Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:23:04.8932260Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:23:04.9174599Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:23:04.9176275Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:27:07.7666373Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:27:07.7750150Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:27:07.7752151Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:28:48.5573678Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:28:48.5695747Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:28:48.5702180Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:29:01.9636847Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:29:01.9686545Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:29:01.9688029Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:29:11.0304526Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:29:11.0360249Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:29:11.0362374Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:35:18.3512518Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:35:18.3559308Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:35:18.3560677Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:37:11.4816780Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:37:11.4894951Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T00:37:11.4896512Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:37:54.4978975Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:37:54.6501286Z","@m":"Sequence contains no elements.","@i":"7a84cf47","@l":"Fatal"}
+{"@t":"2022-03-09T00:37:54.6509509Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:38:28.7509761Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:38:28.8218453Z","@m":"Sequence contains no elements.","@i":"7a84cf47","@l":"Fatal"}
+{"@t":"2022-03-09T00:38:28.8220703Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:39:14.6943890Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:39:22.7202923Z","@m":"Sequence contains no elements.","@i":"7a84cf47","@l":"Fatal"}
+{"@t":"2022-03-09T00:39:22.7205181Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:39:26.1989162Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:46:22.3107338Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T00:46:50.6596021Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:46:51.2640153Z","@m":"Sequence contains no elements.","@i":"7a84cf47","@l":"Fatal"}
+{"@t":"2022-03-09T00:46:51.2666284Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:47:03.4169224Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:56:48.6573250Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T00:57:18.2326162Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:57:34.5594838Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T00:57:34.5609090Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:58:07.7725830Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:58:16.0614386Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T00:58:16.0615962Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T00:58:32.0709749Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T00:58:32.0763794Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T00:58:32.0765228Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:10:25.1640621Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T01:10:46.0002872Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:10:46.6768674Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:10:46.6781570Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:11:14.8034462Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:11:14.8126236Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:11:14.8127775Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:12:34.8533784Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:12:34.8606143Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:12:34.8607641Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:13:04.8000422Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:13:04.8105859Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:13:04.8109676Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:13:16.7535835Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:13:16.7632663Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:13:16.7634158Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:14:54.0145609Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:14:54.0213983Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:14:54.0220084Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:15:17.1855245Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:15:17.1925322Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:15:17.1933040Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:16:15.6157627Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:16:15.6291743Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:16:15.6295905Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:20:29.0915455Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:20:29.0976264Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:20:29.0979551Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:21:01.2127831Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:21:01.2184008Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:21:01.2185501Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:21:59.4710895Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:21:59.4789570Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:21:59.4790898Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:22:27.7193146Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:22:29.9404806Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:23:22.5439258Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:23:22.6210388Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:23:23.4429172Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:23:23.4435648Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:24:18.1374124Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:24:18.1442066Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:24:18.1461972Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:24:38.7335323Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:24:38.7468786Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:24:38.7473632Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:25:28.0753003Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:25:28.0805204Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:25:28.0808011Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:26:14.8802064Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:26:14.8863127Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:26:14.8864650Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:28:33.6195477Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:28:33.6260080Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:28:33.6261578Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:31:03.1497371Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:31:03.1576971Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:31:03.1578618Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:31:40.0494198Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:31:40.0587666Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:31:40.0592498Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:31:53.4722853Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:31:53.4779175Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:31:53.4786626Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:33:37.2429280Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:33:37.2491495Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:33:37.2494273Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:33:43.8558532Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:33:43.8602630Z","@m":"API Token GET Invalid User Name or password.","@i":"4eaaf989","Action":"Token"}
+{"@t":"2022-03-09T01:33:43.8605882Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:34:27.3385275Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:34:27.3470607Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:34:27.3483259Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:37:06.9109767Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:37:06.9170057Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:37:06.9171783Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:38:24.3222121Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:38:24.3315553Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:38:24.3317215Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:39:52.8251430Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:39:52.8305941Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:39:52.8307224Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:40:03.2378398Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:40:03.2440019Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:40:03.2441733Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:41:29.1353419Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:41:29.1420366Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:41:29.1424780Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:41:50.6028994Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:41:50.6186232Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:41:50.6189349Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:48:21.1573682Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:48:21.1623601Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:48:21.1624944Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T01:48:34.3167309Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T01:48:34.3219950Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T01:48:34.3222185Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T03:04:08.8902668Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T03:04:46.9336444Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T03:05:08.2548043Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T03:06:37.1529527Z","@m":"InsertUser","@i":"1247fc90"}
+{"@t":"2022-03-09T03:07:25.9045144Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T03:09:39.7804639Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T03:27:01.0499261Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T03:27:29.6136540Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T03:30:53.5568822Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T03:31:43.0103201Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T03:32:17.1488430Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T03:43:51.8903279Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T03:45:29.6644968Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T03:49:01.7432979Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T03:56:30.1988903Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T03:57:28.4056330Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T03:57:29.0889131Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T03:57:29.0901976Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T03:58:54.3296228Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T04:08:55.3001541Z","@m":"Iniciando Log","@i":"25831ea1"}
