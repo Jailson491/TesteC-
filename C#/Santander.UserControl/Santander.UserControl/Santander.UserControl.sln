@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santader.UserControl", "Santader.UserControl\Santader.UserControl.csproj", "{C0810444-65DB-44A2-B36B-B786DA0B178F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santander.UserControl", "Santader.UserControl\Santander.UserControl.csproj", "{C0810444-65DB-44A2-B36B-B786DA0B178F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -12090,11 +12090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl.csproj",
-      "projectName": "Santader.UserControl",
-      "projectPath": "D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl.csproj",
+      "projectUniqueName": "D:\\src\\C#\\Santander.UserControl\\Santander.UserControl\\Santader.UserControl\\Santander.UserControl.csproj",
+      "projectName": "Santander.UserControl",
+      "projectPath": "D:\\src\\C#\\Santander.UserControl\\Santander.UserControl\\Santader.UserControl\\Santander.UserControl.csproj",
       "packagesPath": "C:\\Users\\PC-DW\\.nuget\\packages\\",
-      "outputPath": "D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\obj\\",
+      "outputPath": "D:\\src\\C#\\Santander.UserControl\\Santander.UserControl\\Santader.UserControl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC-DW\\AppData\\Roaming\\NuGet\\NuGet.Config",

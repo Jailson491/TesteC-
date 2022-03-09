@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "08KrAw9eKhbANV0yafwdjXWV2TXYK9OcWN6MEzpcaWav66q6ozkUch/IMI/zOUH17YFj3yzHFukU7VDuOKidjA==",
+  "dgSpecHash": "joKIg4+ze/JpCSMSNBAzqau2dkwsAtFwqysMst4CGPvyiKjb1QUx8fO9NsZHPlRkLybfNyG1sfE09/X68toCLQ==",
   "success": true,
-  "projectFilePath": "D:\\teste\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl.csproj",
+  "projectFilePath": "D:\\src\\C#\\Santander.UserControl\\Santander.UserControl\\Santader.UserControl\\Santander.UserControl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC-DW\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PC-DW\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
