@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\src\\C#\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl\\Santader.UserControl.csproj",
+  "FilePath": "d:\\src\\C#\\Santander.UserControl\\Santander.UserControl\\Santader.UserControl\\Santander.UserControl.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "Santader.UserControl",
+  "RootNamespace": "Santander.UserControl",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

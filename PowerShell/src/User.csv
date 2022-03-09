@@ -1,4 +1,6 @@
 #TYPE System.Management.Automation.PSCustomObject
 "id","userName","password","role","departmentId","dateCreate","dateAlter","idUserAlter","enable"
 "4","Jailson Silva","491","manager","1","2022-03-07T00:00:00","2022-03-07T00:00:00","1","True"
-"8","Carla","591","employee","2","2022-03-07T00:00:00","2022-03-08T03:25:00.354984","1","False"
+"8","Carla","591","employee","2","2022-03-07T00:00:00","2022-03-09T00:48:49.6486575","1","True"
+"9","Marcos","369","employee","5","2022-03-09T03:05:16.955","2022-03-09T00:32:11.331181","4","True"
+"10","Bob","123","employee","3","2022-03-09T19:13:58.876","2022-03-09T16:23:02.7116322","4","False"

@@ -256,3 +256,34 @@
 {"@t":"2022-03-09T03:57:29.0901976Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
 {"@t":"2022-03-09T03:58:54.3296228Z","@m":"ResignationUser","@i":"346f0a1a"}
 {"@t":"2022-03-09T04:08:55.3001541Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T19:11:52.2555636Z","@m":"Iniciando Log","@i":"25831ea1"}
+{"@t":"2022-03-09T19:12:50.0281606Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T19:12:50.7662733Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T19:12:50.7682762Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T19:13:33.1064461Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T19:16:28.3315501Z","@m":"InsertUser","@i":"1247fc90"}
+{"@t":"2022-03-09T19:19:14.1752546Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T19:19:30.5011824Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T19:21:10.7125714Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T19:21:10.7199114Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T19:21:10.7200548Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T19:22:26.8234910Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T19:22:26.8298320Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T19:22:26.8302853Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T19:28:35.9206213Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T19:32:20.7602209Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T19:32:20.8051229Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T19:32:20.8052749Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T19:32:27.0442619Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T19:36:59.3523979Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T19:36:59.3583428Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T19:36:59.3585319Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T19:37:35.0585117Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T19:37:35.1218832Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T19:37:35.1268621Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T19:37:35.1285978Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T19:37:36.1045948Z","@m":"ResignationUser","@i":"346f0a1a"}
+{"@t":"2022-03-09T19:37:36.1902058Z","@m":"Iniciando Post Token","@i":"c99be61a"}
+{"@t":"2022-03-09T19:37:36.1972245Z","@m":"API chamada por Santader.UserControl.Models.JsonWebToken.","@i":"088cea71","Action":"Token"}
+{"@t":"2022-03-09T19:37:36.1976412Z","@m":"API Retorno 200","@i":"2aed6ff4","Action":"Token"}
+{"@t":"2022-03-09T19:37:38.6926915Z","@m":"ResignationUser","@i":"346f0a1a"}
